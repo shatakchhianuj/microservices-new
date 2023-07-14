@@ -1,0 +1,9 @@
+com\springbootproject\orderservice\model\Order.class
+com\springbootproject\orderservice\dto\OrderLineItemsDto.class
+com\springbootproject\orderservice\config\WebClientConfig.class
+com\springbootproject\orderservice\model\OrderLineItems.class
+com\springbootproject\orderservice\OrderServiceApplication.class
+com\springbootproject\orderservice\service\OrderService.class
+com\springbootproject\orderservice\controller\OrderController.class
+com\springbootproject\orderservice\dto\OrderRequest.class
+com\springbootproject\orderservice\repository\OrderRepository.class

@@ -1,0 +1,7 @@
+com\springbootproject\inventoryservice\InventoryServiceApplication.class
+com\springbootproject\inventoryservice\dto\InventoryResponse.class
+com\springbootproject\inventoryservice\repository\InventoryRepository.class
+com\springbootproject\inventoryservice\service\InventoryService.class
+com\springbootproject\inventoryservice\controller\InventoryController.class
+com\springbootproject\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\springbootproject\inventoryservice\model\Inventory.class
